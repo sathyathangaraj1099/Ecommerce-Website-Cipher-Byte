@@ -81,7 +81,25 @@
 .custom-outline-button:hover {
     color: black;
 }
+.new-arrival-heading {
+    color: #183b56;
+}
 
+.new-arrival-container {
+    background-image: url('https://res.cloudinary.com/degrzuz7w/image/upload/v1712912520/Screenshot_2024-04-12_143127_b4fbyp.png');
+    background-size: cover;
+    height: 550px;
+    color: white;
+}
+
+.shop-now-btn {
+    width: 120px;
+    align-self: center;
+    background-color: white;
+    padding: 5px;
+    outline: none;
+    border: none;
+}
 .wcu-section {
     background-color: #f9fbfe;
 }
