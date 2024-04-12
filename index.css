@@ -66,6 +66,7 @@
     border-color: #d0b200;
     background-color: white;
     color: #0d2436;
+    transform: scale(1.2);
 }
 .custom-outline-button {
     color: #d0b200;
@@ -80,6 +81,7 @@
 
 .custom-outline-button:hover {
     color: black;
+    transform: scale(1.2);
 }
 .new-arrival-heading {
     color: #183b56;
@@ -99,6 +101,10 @@
     padding: 5px;
     outline: none;
     border: none;
+    margin-top: 20px;
+}
+.shop-now-btn:hover {
+    transform: scale(1.2);
 }
 .wcu-section {
     background-color: #f9fbfe;
