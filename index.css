@@ -312,3 +312,19 @@
     font-family: "Roboto";
     font-size: 14px;
 }
+
+.order-btn {
+    width: 100%;
+    margin-bottom: 8px;
+}
+.price-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.saree-card {
+    max-width: 300px;
+}
+#sareeContainer {
+    display: none;
+}
